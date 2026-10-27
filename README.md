@@ -152,7 +152,7 @@ I'm always happy to connect with data professionals, recruiters, employers, and 
 
 💼 **LinkedIn:** www.linkedin.com/in/usman-rashid-4105653a6
 
-🐙 **GitHub:** 
+🐙 **GitHub:** https://github.com/usmanrashid-data
 
 ---
 
